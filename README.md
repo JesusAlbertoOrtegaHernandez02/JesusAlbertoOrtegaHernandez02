@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola! Soy Jesús Alberto Ortega Hernández 👋</h1>
-<h3 align="center">Estudiante de Ingeniería Informática | Apasionado por la IA, el desarrollo web</h3>
+<h3 align="center">Estudiante de Ingeniería Informática | Apasionado el desarrollo software y por la IA</h3>
 
 ---
 
@@ -19,15 +19,15 @@
 
 ## 🛠️ Tecnologías y herramientas
 
-- Lenguajes: `JavaScript`, `Python`, `C`, `HTML/CSS`, `Java`, `Python`
-- Web: `Node.js`, `Express`, `React` *(en proceso de aprendizaje)*
+- Lenguajes: `JavaScript`, `Python`, `C`, `HTML/CSS`, `Java`
+- Web: `Node.js`, `Express`, `Angular` *(en proceso de aprendizaje)*
 - IA: `TensorFlow`, `Keras` (redes convolutivas)
 - Buenas prácticas: `Clean Code`, `Patrones de diseño`, `Git`
 
 ---
 
 ## 🌱 Actualmente estoy aprendiendo
-- 🔧 TypeScript y desarrollo frontend moderno (React, Next.js)
+- 🔧 TypeScript y desarrollo frontend
 - 🔐 Principios de arquitectura de software
 - 🚀 Cómo contribuir a proyectos Open Source
 
