@@ -13,17 +13,15 @@
 - 🔗 **Infomarket**: Aplicación web para gestión y visualización de información comercial.
 - 🧠 **Red Convolutiva**: Entrenamiento de una IA para la detección de imágenes con aprendizaje profundo.
 - 🛣️ **Reconocimiento de caminos**: Diseño de algoritmos adaptativos para detección de caminos según distintos escenarios.
-- 🔌 **Desarrollo en hardware**: Proyectos con **displays de 8 segmentos** para tareas automatizadas.
 - 🧼 **Código limpio**: Aplicación de principios SOLID y patrones de diseño en soluciones estructuradas y escalables.
 
 ---
 
 ## 🛠️ Tecnologías y herramientas
 
-- Lenguajes: `JavaScript`, `Python`, `C`, `HTML/CSS`
+- Lenguajes: `JavaScript`, `Python`, `C`, `HTML/CSS`, `Java`, `Python`
 - Web: `Node.js`, `Express`, `React` *(en proceso de aprendizaje)*
 - IA: `TensorFlow`, `Keras` (redes convolutivas)
-- Hardware: Programación con microcontroladores, displays 7/8 segmentos
 - Buenas prácticas: `Clean Code`, `Patrones de diseño`, `Git`
 
 ---
