@@ -1,9 +1,9 @@
-<h1 align="center">¡Hola! Soy Jesús Ortega 👋</h1>
-<h3 align="center">Estudiante de Ingeniería Informática | Apasionado por la IA, el desarrollo web y los sistemas embebidos</h3>
+<h1 align="center">¡Hola! Soy Jesús Alberto Ortega Hernández 👋</h1>
+<h3 align="center">Estudiante de Ingeniería Informática | Apasionado por la IA, el desarrollo web</h3>
 
 ---
 
-🎓 Actualmente curso el **4.º año en Ingeniería Informática**, donde he desarrollado habilidades prácticas en software, hardware e inteligencia artificial.  
+🎓 Actualmente curso el **4.º año en Ingeniería Informática**, donde he desarrollado habilidades prácticas en software, inteligencia artificial.  
 💡 Me gusta abordar problemas desde una perspectiva lógica, buscando soluciones limpias, funcionales y con buen diseño.
 
 ---
