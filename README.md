@@ -113,25 +113,9 @@ src/
 
 ## Requisitos y ejecución
 
-### Requisitos previos
-
 - Node.js v16 o superior  
 - NPM v8 o superior  
 - Navegador compatible con WebGL2
-
-### Ejecución
-
-```bash
-git clone https://github.com/tuusuario/sistema-solar-threejs.git
-cd sistema-solar-threejs
-npm install
-npm start
-```
-
-Abrir en:
-```
-http://localhost:1234
-```
 
 ---
 
