@@ -430,15 +430,6 @@ planeta.add(anillos);
 
 ---
 
-## Solución de problemas
-
-| Problema | Solución |
-|-----------|-----------|
-| Sin sombras | Activa renderer.shadowMap.enabled = true. |
-| Anillos invisibles | Usa transparent: true y revisa rotation.x. |
-| Nave no aparece | Solo visible en modo “Nave”. |
-| Teclas sin respuesta | Asegura foco en la ventana. |
-| Órbitas deformadas | Ajusta f1 y f2. |
 
 ---
 
