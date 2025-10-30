@@ -41,6 +41,19 @@ Incluye tres modos de cámara, una simulación de eclipses entre Sol–Tierra–
 <img width="1636" height="904" alt="Captura de pantalla 2025-10-30 204807" src="https://github.com/user-attachments/assets/dd6a1f6c-2a86-4f45-aaa6-8e68d5c9016e" />
 
 
+## Tareas realizadas
+
+| Tarea | Descripción |
+|-------------|-------------|
+| Generar al menos cinco planetas | Consiste en definir un sistema solar conformado por cinco o mas planetas |
+| Añadir orbita | Genera una orbita al rededor del sol para cada planeta |
+| Añadir sombras | La luminosidad viene del sol, por lo que las caras que no miran a este tienen sombra |
+| Añadir segunda textura | La Tierra, Saturno y Neptuno tienen una doble capa de textura para las nubes y los anillos |
+| Generar eclipse | La luna genera un eclipse sobre la tierra |
+| dat.GUI | Interfaz para modificar parámetros en tiempo real. |
+| Modos de vista | Añadido modo de vista para centrarse en cada planeta y modo nave |
+
+
 ## Tecnologías utilizadas
 
 | Tecnología | Descripción |
